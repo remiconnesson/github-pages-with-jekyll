@@ -1,3 +1,8 @@
-# Welcome to my blog
+# Welcome to my first tryout on github pages
 
-I'm glad you are here. I plan to talk about ...
+## This is a title level2
+*As you can see I know a bit of Markdown*
+
+## I push my luck
+
+![an image maybe](https://i.imgur.com/vHCF5hC.png)
